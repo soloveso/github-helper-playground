@@ -1,2 +1,3 @@
-# github-helper-playground
-金蜗牛 GitHub 助手练手场
+# 练手场
+
+这是金蜗牛和精精的 GitHub 操练仓。
